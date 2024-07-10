@@ -3,8 +3,10 @@
 <img src="img/avatar.jpeg" align="center" style="width: 250px; height: 250px" />
 </div>  
 
-### <div align="center">Mi nombre es Samuel 👨‍💻, soy desarrollador web, apasionado del código 🚀</div>  
+ <div align="center"><h2>¡Hola 👋, gracias por venir a mi Github!</h2></div>  
+
 <br/>
+
 ## Sobre mí  
 Soy una persona curiosa, que le gusta estar siempre investigando, autodidacta ..., pero tengo que admitir que donde esté un buen equipo en el que todos aprendamos, me siento muy cómodo
 
@@ -121,7 +123,7 @@ Actions.
 <a href="https://twitter.com/Oiranca" target="_blank">
 <img src=https://img.shields.io/badge/Twitter-%2324292e.svg?&style=for-the-badge&logo=x&logoColor=white alt=formerly Twitter style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>
   
 <br/>  
 
