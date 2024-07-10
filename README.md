@@ -4,8 +4,7 @@
 </div>  
 
 ### <div align="center">Mi nombre es Samuel 👨‍💻, soy desarrollador web, apasionado del código 🚀</div>  
-  
-
+<br/>
 ## Sobre mí  
 Soy una persona curiosa, que le gusta estar siempre investigando, autodidacta ..., pero tengo que admitir que donde esté un buen equipo en el que todos aprendamos, me siento muy cómodo
 
@@ -21,40 +20,39 @@ Para introducirme en Frontend he realizado varios cursos y un bootcamp donde he 
 - 🔭 Actualmente son desarrollador voluntario en [AdoptaUnJunior](https://adoptaunjunior.es/)  
   
 - 🌱 Actualmente estoy aprendiendo Jest y Nextjs, para poder expandir algo más mis conocimientos  
-  
 
 <br/>  
 
- ## Algunos Proyectos y contribuciones 
+ ## Algunos Proyectos 
  
 <table>
 	<tr>
-		<th>My_Whatsapp_Clone</th>
-		<th>Your Multiply</th>
+	<th>My_Whatsapp_Clone</th>
+	<th>Your Multiply</th>
     <th>Movies for World</th>
     <th>Ecommerce</th>
    	</tr>
  	<tr>
-  		<td width="27%">
+  	<td width="27%">
         <div align="center">  
         <img style="margin: 10px" src="img/logo_My_Whatsapp_Clone.png" alt="My Whatsapp clone Logo" height="200" />
         </div>
         </td>
-   	<td>
+   <td>
         <div align="center">  
         <img style="margin: 10px" src="img/logo_Multiply_white.png" alt="You Multiply Logo" height="200" />
         </div>
         </td>
-    <td>
+   <td width="27%">
         <div align="center">  
-        <img style="margin: 10px" src="img/Logo_HomeworK_white.png" alt="Homework Logo" height="200" />
+        <img style="margin: 10px" src="img/logo_Moviesforworld_white.png" alt="Movies For World Logo" height="200" />
         </div>
         </td>
     <td>
         <div align="center">  
         <img style="margin: 10px" src="img/logo_ecommerce_white.png" alt="Ecommerce Logo" height="200" />
         </div>
-        </td>
+	</td>
    	</tr>
 		<tr>
   		<td>
@@ -75,7 +73,7 @@ Para introducirme en Frontend he realizado varios cursos y un bootcamp donde he 
 <br/>  
 
 
-## Mis HardSkills   
+## Mis Skills   
 <table>
   <tr>
     <td valign="top" width="33%">
