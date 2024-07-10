@@ -1,9 +1,10 @@
 
+
 <div align="center">
 <img src="img/avatar.jpeg" align="center" style="width: 250px; height: 250px" />
 </div>  
 
- <div align="center"><h2>¡Hola 👋, gracias por venir a mi Github!</h2></div>  
+### <div align="center">¡Hola 👋, gracias por venir a mi Github!</div> 
 
 <br/>
 
