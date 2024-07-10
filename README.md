@@ -1,9 +1,9 @@
 
 <div align="center">
-<img src="https://github.com/Oiranca/Oiranca/blob/b478302d9af2e1484d3649c41a70411adfd6b501/img/avatar.jpeg" align="center" style="width: 250px; height: 250px" />
+<img src="img/avatar.jpeg" align="center" style="width: 250px; height: 250px" />
 </div>  
 
-### <div align="center">Mi nombre es Samuel 👨‍💻, soy desarrollador web, apacionado del código 🚀</div>  
+### <div align="center">Mi nombre es Samuel 👨‍💻, soy desarrollador web, apasionado del código 🚀</div>  
   
 
 ## Sobre mí  
@@ -27,38 +27,50 @@ Para introducirme en Frontend he realizado varios cursos y un bootcamp donde he 
 
  ## Algunos Proyectos y contribuciones 
  
-
 <table>
-  <tr>
-    <td valign="top" width="33%">
-
-<div align="center">
-<h5>My _Whatsapp_Clone</h5>
-  <img src="https://github.com/Oiranca/Oiranca/blob/b478302d9af2e1484d3649c41a70411adfd6b501/img/avatar.jpeg" align="center" style="width: 250px; height: 250px" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-</div>
-
-</td>
-<td valign="top" width="33%">
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</td>
-</tr>
-</table>  
-
-<br/>   
-  
+	<tr>
+		<th>My_Whatsapp_Clone</th>
+		<th>Your Multiply</th>
+    <th>Movies for World</th>
+    <th>Ecommerce</th>
+   	</tr>
+ 	<tr>
+  		<td width="27%">
+        <div align="center">  
+        <img style="margin: 10px" src="img/logo_My_Whatsapp_Clone.png" alt="My Whatsapp clone Logo" height="200" />
+        </div>
+        </td>
+   	<td>
+        <div align="center">  
+        <img style="margin: 10px" src="img/logo_Multiply_white.png" alt="You Multiply Logo" height="200" />
+        </div>
+        </td>
+    <td>
+        <div align="center">  
+        <img style="margin: 10px" src="img/Logo_HomeworK_white.png" alt="Homework Logo" height="200" />
+        </div>
+        </td>
+    <td>
+        <div align="center">  
+        <img style="margin: 10px" src="img/logo_ecommerce_white.png" alt="Ecommerce Logo" height="200" />
+        </div>
+        </td>
+   	</tr>
+		<tr>
+  		<td>
+        <div align="center">Repositorio <a href="https://github.com/Oiranca/whatsapp-clone" target="_blank">My Whatsapp clone</a></div>
+      </td>
+      <td>
+        <div align="center">Repositorio <a href="https://github.com/Oiranca/multiply-game" target="_blank">Multiply</a></div>
+      </td>
+      <td>
+        <div align="center">Repositorio <a href="https://github.com/Oiranca/movies_for_world" target="_blank">Movies For World</a></div>
+      </td>
+      <td>
+        <div align="center">Repositorio <a href="https://github.com/Oiranca/ecommerce-backend" target="_blank">Ecommerce</a></div>
+      </td>
+    	</tr>
+</table>
 
 <br/>  
 
