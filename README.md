@@ -20,7 +20,7 @@ Para introducirme en Frontend he realizado varios cursos y un bootcamp donde he 
 <br/>
 
  ## Algo más  
-- 🔭 Actualmente son desarrollador voluntario en [AdoptaUnJunior](https://adoptaunjunior.es/)  
+- 🔭 Soy desarrollador voluntario en [AdoptaUnJunior](https://adoptaunjunior.es/)  
   
 - 🌱 Actualmente estoy aprendiendo Jest y Nextjs, para poder expandir algo más mis conocimientos  
 
