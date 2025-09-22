@@ -26,7 +26,7 @@ Para introducirme en Frontend he realizado varios cursos y un bootcamp donde he 
 - 🌱 Actualmente estoy aprendiendo Jest y Nextjs, para poder expandir algo más mis conocimientos 
 </br>
 
-- <span style="margin-right:5px" >🌐</span><a href="https://samuelromeroarbelo.com" alt="Web personal" target="_blank">Web Personal</a>
+- 🌐&nbsp;<a href="https://samuelromeroarbelo.com" alt="Web personal" target="_blank" style="margin-left: 15px">Web Personal</a>
 
 <br/>  
 
@@ -42,37 +42,41 @@ Para introducirme en Frontend he realizado varios cursos y un bootcamp donde he 
  	<tr>
   	<td width="25%">
         <div align="center">  
-        <img src="img/logo_My_Whatsapp_Clone.png" alt="My Whatsapp clone Logo" height="150" />
+        <img src="img/logo_My_Whatsapp_Clone.png" alt="My Whatsapp clone Logo" height="250" />
         </div>
     </td>
     <td width="25%">
         <div align="center">  
-        <img src="img/logo_Multiply_white.png" alt="You Multiply Logo" height="150" />
+        <img src="img/logo_Multiply_white.png" alt="You Multiply Logo" height="250" />
         </div>
     </td>
     <td width="25%">
         <div align="center">  
-        <img src="img/logo_Moviesforworld_white.png" alt="Movies For World Logo" height="150" />
+        <img src="img/logo_Moviesforworld_white.png" alt="Movies For World Logo" height="250" />
         </div>
       </td>
     <td width="25%">
         <div align="center">  
-        <img src="img/logo_ecommerce_white.png" alt="Ecommerce Logo" height="150" />
+        <img src="img/logo_ecommerce_white.png" alt="Ecommerce Logo" height="250" />
         </div>
     </td>
    	</tr>
 		<tr>
   		<td width="25%">
-        <div align="center">Repositorio <a href="https://github.com/Oiranca/whatsapp-clone" target="_blank">My Whatsapp clone</a></div>
+        <div align="center">Repositorio</div>
+		<div align="center"><a href="https://github.com/Oiranca/whatsapp-clone" target="_blank">My Whatsapp clone</a></div>
       </td>
       <td width="25%">
-        <div align="center">Repositorio <a href="https://github.com/Oiranca/multiply-game" target="_blank">Multiply</a></div>
+        <div align="center">Repositorio</div>
+		  <div align="center"><a href="https://github.com/Oiranca/multiply-game" target="_blank">Multiply</a></div>
       </td>
       <td width="25%">
-        <div align="center">Repositorio <a href="https://github.com/Oiranca/movies_for_world" target="_blank">Movies For World</a></div>
+        <div align="center">Repositorio</div>
+		<div align="center"><a href="https://github.com/Oiranca/movies_for_world" target="_blank">Movies For World</a></div>
       </td>
       <td width="25%">
-        <div align="center">Repositorio <a href="https://github.com/Oiranca/ecommerce-backend" target="_blank">Ecommerce</a></div>
+        <div align="center">Repositorio</div>
+		<div align="center"><a href="https://github.com/Oiranca/ecommerce-backend" target="_blank">Ecommerce</a></div>
       </td>
     	</tr>
 </table>
