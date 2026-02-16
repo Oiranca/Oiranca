@@ -20,7 +20,7 @@ Para introducirme en Frontend he realizado varios cursos y un bootcamp donde he 
 <br/>
 
  ## Algo más  
-- 🔭 Soy desarrollador voluntario en [AdoptaUnJunior](https://adoptaunjunior.es/) y en <strong> Kimox Studio </strong>
+- 🔭 Soy desarrollador voluntario en <strong> Kimox Studio </strong>
 </br>  
 
 - 🌱 Actualmente estoy aprendiendo Jest y Nextjs, para poder expandir algo más mis conocimientos 
